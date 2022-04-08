@@ -1,3 +1,3 @@
 # tugas-rest-api
-Demo : https://dhamario.my.id/tugas-rest-api/
+Demo : https://dhamario.github.io/tugas-rest-api/
  
